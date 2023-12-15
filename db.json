@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Ishita",
+      "lastName": "Sharma",
+      "email": "ishita@gmail.com",
+      "dob": "2001-12-31T18:30:00.000Z",
+      "gender": "female",
+      "education": "Graduate",
+      "company": "MasterCard",
+      "experience": 1,
+      "package": 15,
+      "id": 1
+    },
+    {
+      "firstName": "Shashank",
+      "lastName": "Balakrishnan",
+      "email": "shashankbk10@gmail.com",
+      "dob": "2003-02-21T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "LTIMindtree",
+      "experience": 1,
+      "package": 11,
+      "id": 2
+    },
+    {
+      "firstName": "Sridharan",
+      "lastName": "Narayanan",
+      "email": "test@gmail.com",
+      "dob": "2003-01-05T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "Suki.ai",
+      "experience": 1,
+      "package": 20,
+      "id": 3
+    }
+  ]
+}
